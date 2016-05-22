@@ -1,0 +1,11 @@
+...
+I0522 10:13:45.746582  3073 caffe.cpp:219] Starting Optimization
+I0522 10:13:45.746616  3073 solver.cpp:279] Solving CIFAR10_quick
+I0522 10:13:45.746645  3073 solver.cpp:280] Learning Rate Policy: fixed
+I0522 10:13:45.835724  3073 solver.cpp:337] Iteration 0, Testing net (#0)
+I0522 10:20:37.677033  3073 solver.cpp:404]     Test net output #0: accuracy = 0.0111111
+I0522 10:20:38.228979  3073 solver.cpp:404]     Test net output #1: loss = -nan (* 1 = -nan loss)
+I0522 10:20:45.535403  3073 solver.cpp:228] Iteration 0, loss = 53.0804
+I0522 10:20:45.535538  3073 solver.cpp:244]     Train net output #0: loss = 53.0804 (* 1 = 53.0804 loss)
+I0522 10:20:45.553602  3073 sgd_solver.cpp:106] Iteration 0, lr = 0.001
+*** Aborted at 1463901959 (unix time) try "date -d @1463901959" if you are using GNU date ***
